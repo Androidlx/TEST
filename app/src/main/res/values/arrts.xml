@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MyCustomView">
+
+        <attr name="left_btn_text" format="string"></attr>
+        <attr name="left_btn_text_size" format="dimension"></attr>
+        <attr name="left_btn_text_color" format="color"></attr>
+
+        <attr name="center_text" format="string"></attr>
+        <attr name="center_text_size" format="dimension"></attr>
+        <attr name="center_text_color" format="color"></attr>
+
+        <attr name="right_btn_img" format="reference"></attr>
+
+    </declare-styleable>
+
+</resources>
